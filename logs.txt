@@ -1,0 +1,635 @@
+[27/08/2020 22:26:08] [Log]: Loading the program...
+[27/08/2020 22:26:08] [Log]: 73 users have been loaded.
+[27/08/2020 22:26:08] [Log]: 14 intakes have been loaded.
+[27/08/2020 22:26:08] [Log]: 20 modules have been loaded.
+[27/08/2020 22:26:08] [Log]: 60 students have been loaded.
+[27/08/2020 22:26:08] [Log]: 0 module results have been loaded.
+[27/08/2020 22:26:33] [Log]: Loading the program...
+[27/08/2020 22:26:33] [Log]: 73 users have been loaded.
+[27/08/2020 22:26:33] [Log]: 14 intakes have been loaded.
+[27/08/2020 22:26:33] [Log]: 20 modules have been loaded.
+[27/08/2020 22:26:33] [Log]: 60 students have been loaded.
+[27/08/2020 22:26:33] [Log]: 0 module results have been loaded.
+[27/08/2020 22:26:37] [Login]: admin(admin) logged in.
+[27/08/2020 22:28:45] [Logout]: admin(admin) logged out.
+[27/08/2020 22:28:53] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[27/08/2020 22:32:20] [Logout]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged out.
+[27/08/2020 22:32:22] [Log]: Save the files and stop the program.
+[28/08/2020 08:53:14] [Log]: Loading the program...
+[28/08/2020 08:53:14] [Log]: 73 users have been loaded.
+[28/08/2020 08:53:14] [Log]: 14 intakes have been loaded.
+[28/08/2020 08:53:14] [Log]: 20 modules have been loaded.
+[28/08/2020 08:53:14] [Log]: 60 students have been loaded.
+[28/08/2020 08:53:14] [Log]: 3 module results have been loaded.
+[28/08/2020 08:53:22] [Login]: Yap Zhen Yie(yapzhenyie) logged in.
+[28/08/2020 15:14:37] [Log]: Loading the program...
+[28/08/2020 15:14:37] [Log]: 73 users have been loaded.
+[28/08/2020 15:14:37] [Log]: 14 intakes have been loaded.
+[28/08/2020 15:14:37] [Log]: 20 modules have been loaded.
+[28/08/2020 15:14:37] [Log]: 60 students have been loaded.
+[28/08/2020 15:14:37] [Log]: 3 module results have been loaded.
+[28/08/2020 15:14:49] [Login]: admin(admin) logged in.
+[28/08/2020 15:19:13] [Log]: Loading the program...
+[28/08/2020 15:19:13] [Log]: 73 users have been loaded.
+[28/08/2020 15:19:13] [Log]: 14 intakes have been loaded.
+[28/08/2020 15:19:13] [Log]: 20 modules have been loaded.
+[28/08/2020 15:19:13] [Log]: 60 students have been loaded.
+[28/08/2020 15:19:13] [Log]: 3 module results have been loaded.
+[28/08/2020 15:19:20] [Login]: admin(admin) logged in.
+[28/08/2020 15:20:54] [Logout]: admin(admin) logged out.
+[28/08/2020 15:20:54] [Log]: Save the files and stop the program.
+[28/08/2020 15:34:07] [Log]: Loading the program...
+[28/08/2020 15:34:07] [Log]: 73 users have been loaded.
+[28/08/2020 15:34:07] [Log]: 14 intakes have been loaded.
+[28/08/2020 15:34:07] [Log]: 20 modules have been loaded.
+[28/08/2020 15:34:07] [Log]: 60 students have been loaded.
+[28/08/2020 15:34:07] [Log]: 3 module results have been loaded.
+[28/08/2020 15:34:12] [Login]: admin(admin) logged in.
+[28/08/2020 15:34:44] [Log]: Loading the program...
+[28/08/2020 15:34:44] [Log]: 73 users have been loaded.
+[28/08/2020 15:34:44] [Log]: 14 intakes have been loaded.
+[28/08/2020 15:34:44] [Log]: 20 modules have been loaded.
+[28/08/2020 15:34:44] [Log]: 60 students have been loaded.
+[28/08/2020 15:34:44] [Log]: 3 module results have been loaded.
+[28/08/2020 15:34:54] [Login]: admin(admin) logged in.
+[28/08/2020 15:36:53] [Logout]: admin(admin) logged out.
+[28/08/2020 15:36:53] [Log]: Save the files and stop the program.
+[28/08/2020 16:21:46] [Log]: Loading the program...
+[28/08/2020 16:21:46] [Log]: 74 users have been loaded.
+[28/08/2020 16:21:46] [Log]: 14 intakes have been loaded.
+[28/08/2020 16:21:46] [Log]: 20 modules have been loaded.
+[28/08/2020 16:21:46] [Log]: 61 students have been loaded.
+[28/08/2020 16:21:46] [Log]: 3 module results have been loaded.
+[28/08/2020 16:21:48] [Login]: admin(admin) logged in.
+[28/08/2020 16:24:29] [Log]: Loading the program...
+[28/08/2020 16:24:29] [Log]: 74 users have been loaded.
+[28/08/2020 16:24:29] [Log]: 14 intakes have been loaded.
+[28/08/2020 16:24:29] [Log]: 20 modules have been loaded.
+[28/08/2020 16:24:29] [Log]: 61 students have been loaded.
+[28/08/2020 16:24:29] [Log]: 3 module results have been loaded.
+[28/08/2020 16:24:33] [Login]: admin(admin) logged in.
+[28/08/2020 16:24:48] [Logout]: admin(admin) logged out.
+[28/08/2020 16:24:53] [Login]: Yap Zhen Yie(yapzhenyie) logged in.
+[28/08/2020 16:24:56] [Logout]: Yap Zhen Yie(yapzhenyie) logged out.
+[28/08/2020 16:25:01] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[28/08/2020 16:25:15] [Logout]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged out.
+[28/08/2020 16:25:20] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[28/08/2020 16:25:27] [Logout]: Mohammed Khier Alsahen(student1) logged out.
+[28/08/2020 16:25:33] [Login]: admin(admin) logged in.
+[28/08/2020 16:40:02] [Log]: Loading the program...
+[28/08/2020 16:40:02] [Log]: 74 users have been loaded.
+[28/08/2020 16:40:02] [Log]: 14 intakes have been loaded.
+[28/08/2020 16:40:02] [Log]: 20 modules have been loaded.
+[28/08/2020 16:40:02] [Log]: 61 students have been loaded.
+[28/08/2020 16:40:02] [Log]: 3 module results have been loaded.
+[28/08/2020 16:40:06] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[28/08/2020 16:40:23] [Log]: Loading the program...
+[28/08/2020 16:40:23] [Log]: 74 users have been loaded.
+[28/08/2020 16:40:23] [Log]: 14 intakes have been loaded.
+[28/08/2020 16:40:23] [Log]: 20 modules have been loaded.
+[28/08/2020 16:40:23] [Log]: 61 students have been loaded.
+[28/08/2020 16:40:23] [Log]: 3 module results have been loaded.
+[28/08/2020 16:40:26] [Login]: Mohammed Khier Alsahen(student1) is attempting to login.
+[28/08/2020 16:40:28] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[28/08/2020 16:49:52] [Log]: Loading the program...
+[28/08/2020 16:49:52] [Log]: 74 users have been loaded.
+[28/08/2020 16:49:52] [Log]: 14 intakes have been loaded.
+[28/08/2020 16:49:52] [Log]: 20 modules have been loaded.
+[28/08/2020 16:49:52] [Log]: 61 students have been loaded.
+[28/08/2020 16:49:52] [Log]: 3 module results have been loaded.
+[28/08/2020 16:49:56] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[28/08/2020 16:51:20] [Log]: Loading the program...
+[28/08/2020 16:51:20] [Log]: 74 users have been loaded.
+[28/08/2020 16:51:20] [Log]: 14 intakes have been loaded.
+[28/08/2020 16:51:20] [Log]: 20 modules have been loaded.
+[28/08/2020 16:51:20] [Log]: 61 students have been loaded.
+[28/08/2020 16:51:20] [Log]: 3 module results have been loaded.
+[28/08/2020 16:51:23] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[28/08/2020 16:51:52] [Log]: Loading the program...
+[28/08/2020 16:51:52] [Log]: 74 users have been loaded.
+[28/08/2020 16:51:52] [Log]: 14 intakes have been loaded.
+[28/08/2020 16:51:52] [Log]: 20 modules have been loaded.
+[28/08/2020 16:51:52] [Log]: 61 students have been loaded.
+[28/08/2020 16:51:52] [Log]: 3 module results have been loaded.
+[28/08/2020 16:51:55] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[28/08/2020 16:53:43] [Log]: Loading the program...
+[28/08/2020 16:53:43] [Log]: 74 users have been loaded.
+[28/08/2020 16:53:43] [Log]: 14 intakes have been loaded.
+[28/08/2020 16:53:43] [Log]: 20 modules have been loaded.
+[28/08/2020 16:53:43] [Log]: 61 students have been loaded.
+[28/08/2020 16:53:43] [Log]: 3 module results have been loaded.
+[28/08/2020 16:53:47] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[28/08/2020 16:54:58] [Log]: Loading the program...
+[28/08/2020 16:54:58] [Log]: 74 users have been loaded.
+[28/08/2020 16:54:58] [Log]: 14 intakes have been loaded.
+[28/08/2020 16:54:58] [Log]: 20 modules have been loaded.
+[28/08/2020 16:54:58] [Log]: 61 students have been loaded.
+[28/08/2020 16:54:58] [Log]: 3 module results have been loaded.
+[28/08/2020 16:55:02] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[28/08/2020 16:55:11] [Log]: Loading the program...
+[28/08/2020 16:55:11] [Log]: 74 users have been loaded.
+[28/08/2020 16:55:11] [Log]: 14 intakes have been loaded.
+[28/08/2020 16:55:11] [Log]: 20 modules have been loaded.
+[28/08/2020 16:55:11] [Log]: 61 students have been loaded.
+[28/08/2020 16:55:11] [Log]: 3 module results have been loaded.
+[28/08/2020 16:55:16] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[28/08/2020 16:56:22] [Log]: Loading the program...
+[28/08/2020 16:56:22] [Log]: 74 users have been loaded.
+[28/08/2020 16:56:22] [Log]: 14 intakes have been loaded.
+[28/08/2020 16:56:22] [Log]: 20 modules have been loaded.
+[28/08/2020 16:56:22] [Log]: 61 students have been loaded.
+[28/08/2020 16:56:22] [Log]: 3 module results have been loaded.
+[28/08/2020 16:56:27] [Login]: Mohammed Khier Alsahen(student1) is attempting to login.
+[28/08/2020 16:56:30] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[28/08/2020 16:56:52] [Log]: Loading the program...
+[28/08/2020 16:56:52] [Log]: 74 users have been loaded.
+[28/08/2020 16:56:52] [Log]: 14 intakes have been loaded.
+[28/08/2020 16:56:52] [Log]: 20 modules have been loaded.
+[28/08/2020 16:56:52] [Log]: 61 students have been loaded.
+[28/08/2020 16:56:52] [Log]: 3 module results have been loaded.
+[28/08/2020 16:56:55] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[28/08/2020 16:57:24] [Log]: Loading the program...
+[28/08/2020 16:57:24] [Log]: 74 users have been loaded.
+[28/08/2020 16:57:24] [Log]: 14 intakes have been loaded.
+[28/08/2020 16:57:24] [Log]: 20 modules have been loaded.
+[28/08/2020 16:57:24] [Log]: 61 students have been loaded.
+[28/08/2020 16:57:24] [Log]: 3 module results have been loaded.
+[28/08/2020 16:57:28] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[28/08/2020 17:36:01] [Log]: Loading the program...
+[28/08/2020 17:36:01] [Log]: 74 users have been loaded.
+[28/08/2020 17:36:01] [Log]: 14 intakes have been loaded.
+[28/08/2020 17:36:01] [Log]: 20 modules have been loaded.
+[28/08/2020 17:36:01] [Log]: 61 students have been loaded.
+[28/08/2020 17:36:01] [Log]: 3 module results have been loaded.
+[28/08/2020 17:36:04] [Login]: admin(admin) logged in.
+[28/08/2020 17:45:57] [Log]: Loading the program...
+[28/08/2020 17:45:57] [Log]: 74 users have been loaded.
+[28/08/2020 17:45:57] [Log]: 14 intakes have been loaded.
+[28/08/2020 17:45:57] [Log]: 20 modules have been loaded.
+[28/08/2020 17:45:57] [Log]: 61 students have been loaded.
+[28/08/2020 17:45:57] [Log]: 3 module results have been loaded.
+[28/08/2020 17:46:01] [Login]: admin(admin) logged in.
+[28/08/2020 17:47:00] [Log]: Loading the program...
+[28/08/2020 17:47:01] [Log]: 74 users have been loaded.
+[28/08/2020 17:47:01] [Log]: 14 intakes have been loaded.
+[28/08/2020 17:47:01] [Log]: 20 modules have been loaded.
+[28/08/2020 17:47:01] [Log]: 61 students have been loaded.
+[28/08/2020 17:47:01] [Log]: 3 module results have been loaded.
+[28/08/2020 17:47:04] [Login]: admin(admin) logged in.
+[28/08/2020 17:48:24] [Log]: Loading the program...
+[28/08/2020 17:48:24] [Log]: 74 users have been loaded.
+[28/08/2020 17:48:24] [Log]: 14 intakes have been loaded.
+[28/08/2020 17:48:24] [Log]: 20 modules have been loaded.
+[28/08/2020 17:48:24] [Log]: 61 students have been loaded.
+[28/08/2020 17:48:24] [Log]: 3 module results have been loaded.
+[28/08/2020 17:48:27] [Login]: admin(admin) logged in.
+[28/08/2020 17:49:15] [Log]: Loading the program...
+[28/08/2020 17:49:15] [Log]: 74 users have been loaded.
+[28/08/2020 17:49:15] [Log]: 14 intakes have been loaded.
+[28/08/2020 17:49:15] [Log]: 20 modules have been loaded.
+[28/08/2020 17:49:15] [Log]: 61 students have been loaded.
+[28/08/2020 17:49:15] [Log]: 3 module results have been loaded.
+[28/08/2020 17:49:18] [Login]: admin(admin) logged in.
+[28/08/2020 17:50:09] [Log]: Loading the program...
+[28/08/2020 17:50:09] [Log]: 74 users have been loaded.
+[28/08/2020 17:50:09] [Log]: 14 intakes have been loaded.
+[28/08/2020 17:50:09] [Log]: 20 modules have been loaded.
+[28/08/2020 17:50:09] [Log]: 61 students have been loaded.
+[28/08/2020 17:50:09] [Log]: 3 module results have been loaded.
+[28/08/2020 17:50:12] [Login]: admin(admin) logged in.
+[28/08/2020 21:18:21] [Log]: Loading the program...
+[28/08/2020 21:18:21] [Log]: 74 users have been loaded.
+[28/08/2020 21:18:21] [Log]: 14 intakes have been loaded.
+[28/08/2020 21:18:21] [Log]: 20 modules have been loaded.
+[28/08/2020 21:18:21] [Log]: 61 students have been loaded.
+[28/08/2020 21:18:21] [Log]: 3 module results have been loaded.
+[28/08/2020 21:19:04] [Login]: admin(admin) logged in.
+[28/08/2020 21:34:50] [Logout]: admin(admin) logged out.
+[28/08/2020 21:34:58] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[28/08/2020 21:36:10] [Logout]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged out.
+[28/08/2020 21:36:15] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[28/08/2020 21:37:56] [Logout]: Mohammed Khier Alsahen(student1) logged out.
+[28/08/2020 21:37:56] [Log]: Save the files and stop the program.
+[28/08/2020 23:04:40] [Log]: Loading the program...
+[28/08/2020 23:04:40] [Log]: 74 users have been loaded.
+[28/08/2020 23:04:40] [Log]: 14 intakes have been loaded.
+[28/08/2020 23:04:40] [Log]: 20 modules have been loaded.
+[28/08/2020 23:04:40] [Log]: 61 students have been loaded.
+[28/08/2020 23:04:40] [Log]: 3 module results have been loaded.
+[28/08/2020 23:04:45] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[28/08/2020 23:04:52] [Log]: Loading the program...
+[28/08/2020 23:04:52] [Log]: 74 users have been loaded.
+[28/08/2020 23:04:52] [Log]: 14 intakes have been loaded.
+[28/08/2020 23:04:52] [Log]: 20 modules have been loaded.
+[28/08/2020 23:04:52] [Log]: 61 students have been loaded.
+[28/08/2020 23:04:52] [Log]: 3 module results have been loaded.
+[28/08/2020 23:04:55] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[28/08/2020 23:05:12] [Log]: Loading the program...
+[28/08/2020 23:05:12] [Log]: 74 users have been loaded.
+[28/08/2020 23:05:12] [Log]: 14 intakes have been loaded.
+[28/08/2020 23:05:12] [Log]: 20 modules have been loaded.
+[28/08/2020 23:05:12] [Log]: 61 students have been loaded.
+[28/08/2020 23:05:12] [Log]: 3 module results have been loaded.
+[28/08/2020 23:05:16] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[29/08/2020 11:53:40] [Log]: Loading the program...
+[29/08/2020 11:53:40] [Log]: 74 users have been loaded.
+[29/08/2020 11:53:40] [Log]: 14 intakes have been loaded.
+[29/08/2020 11:53:40] [Log]: 20 modules have been loaded.
+[29/08/2020 11:53:40] [Log]: 61 students have been loaded.
+[29/08/2020 11:53:40] [Log]: 3 module results have been loaded.
+[29/08/2020 11:53:44] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[29/08/2020 11:54:28] [Log]: Loading the program...
+[29/08/2020 11:54:28] [Log]: 74 users have been loaded.
+[29/08/2020 11:54:28] [Log]: 14 intakes have been loaded.
+[29/08/2020 11:54:28] [Log]: 20 modules have been loaded.
+[29/08/2020 11:54:28] [Log]: 61 students have been loaded.
+[29/08/2020 11:54:28] [Log]: 3 module results have been loaded.
+[29/08/2020 11:54:32] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[29/08/2020 12:03:40] [Log]: Loading the program...
+[29/08/2020 12:03:40] [Log]: 74 users have been loaded.
+[29/08/2020 12:03:40] [Log]: 14 intakes have been loaded.
+[29/08/2020 12:03:40] [Log]: 20 modules have been loaded.
+[29/08/2020 12:03:40] [Log]: 61 students have been loaded.
+[29/08/2020 12:03:40] [Log]: 3 module results have been loaded.
+[29/08/2020 12:03:44] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[29/08/2020 12:04:30] [Logout]: Mohammed Khier Alsahen(student1) logged out.
+[29/08/2020 12:04:34] [Login]: Mohammed Khier Alsahen(student1) is attempting to login.
+[29/08/2020 12:04:36] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[29/08/2020 12:05:03] [Log]: Loading the program...
+[29/08/2020 12:05:03] [Log]: 74 users have been loaded.
+[29/08/2020 12:05:03] [Log]: 14 intakes have been loaded.
+[29/08/2020 12:05:03] [Log]: 20 modules have been loaded.
+[29/08/2020 12:05:03] [Log]: 61 students have been loaded.
+[29/08/2020 12:05:03] [Log]: 3 module results have been loaded.
+[29/08/2020 12:05:08] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[29/08/2020 15:43:18] [Log]: Loading the program...
+[29/08/2020 15:43:18] [Log]: 74 users have been loaded.
+[29/08/2020 15:43:18] [Log]: 14 intakes have been loaded.
+[29/08/2020 15:43:18] [Log]: 20 modules have been loaded.
+[29/08/2020 15:43:18] [Log]: 61 students have been loaded.
+[29/08/2020 15:43:18] [Log]: 3 module results have been loaded.
+[29/08/2020 15:44:05] [Log]: Loading the program...
+[29/08/2020 15:44:05] [Log]: 74 users have been loaded.
+[29/08/2020 15:44:05] [Log]: 14 intakes have been loaded.
+[29/08/2020 15:44:05] [Log]: 20 modules have been loaded.
+[29/08/2020 15:44:05] [Log]: 61 students have been loaded.
+[29/08/2020 15:44:05] [Log]: 3 module results have been loaded.
+[29/08/2020 15:44:13] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[29/08/2020 15:45:41] [Log]: Loading the program...
+[29/08/2020 15:45:41] [Log]: 74 users have been loaded.
+[29/08/2020 15:45:41] [Log]: 14 intakes have been loaded.
+[29/08/2020 15:45:41] [Log]: 20 modules have been loaded.
+[29/08/2020 15:45:41] [Log]: 61 students have been loaded.
+[29/08/2020 15:45:41] [Log]: 3 module results have been loaded.
+[29/08/2020 15:45:49] [Login]: admin(admin) logged in.
+[29/08/2020 15:46:02] [Log]: Loading the program...
+[29/08/2020 15:46:02] [Log]: 74 users have been loaded.
+[29/08/2020 15:46:02] [Log]: 14 intakes have been loaded.
+[29/08/2020 15:46:02] [Log]: 20 modules have been loaded.
+[29/08/2020 15:46:02] [Log]: 61 students have been loaded.
+[29/08/2020 15:46:02] [Log]: 3 module results have been loaded.
+[29/08/2020 15:46:05] [Login]: admin(admin) logged in.
+[29/08/2020 15:47:06] [Log]: Loading the program...
+[29/08/2020 15:47:06] [Log]: 74 users have been loaded.
+[29/08/2020 15:47:06] [Log]: 14 intakes have been loaded.
+[29/08/2020 15:47:06] [Log]: 20 modules have been loaded.
+[29/08/2020 15:47:06] [Log]: 61 students have been loaded.
+[29/08/2020 15:47:06] [Log]: 3 module results have been loaded.
+[29/08/2020 15:47:09] [Login]: admin(admin) logged in.
+[29/08/2020 15:47:34] [Log]: Loading the program...
+[29/08/2020 15:47:34] [Log]: 74 users have been loaded.
+[29/08/2020 15:47:34] [Log]: 14 intakes have been loaded.
+[29/08/2020 15:47:34] [Log]: 20 modules have been loaded.
+[29/08/2020 15:47:34] [Log]: 61 students have been loaded.
+[29/08/2020 15:47:34] [Log]: 3 module results have been loaded.
+[29/08/2020 15:47:37] [Login]: admin(admin) logged in.
+[29/08/2020 15:47:41] [Log]: Loading the program...
+[29/08/2020 15:47:41] [Log]: 74 users have been loaded.
+[29/08/2020 15:47:41] [Log]: 14 intakes have been loaded.
+[29/08/2020 15:47:41] [Log]: 20 modules have been loaded.
+[29/08/2020 15:47:41] [Log]: 61 students have been loaded.
+[29/08/2020 15:47:41] [Log]: 3 module results have been loaded.
+[29/08/2020 15:48:06] [Log]: Loading the program...
+[29/08/2020 15:48:06] [Log]: 74 users have been loaded.
+[29/08/2020 15:48:06] [Log]: 14 intakes have been loaded.
+[29/08/2020 15:48:06] [Log]: 20 modules have been loaded.
+[29/08/2020 15:48:06] [Log]: 61 students have been loaded.
+[29/08/2020 15:48:06] [Log]: 3 module results have been loaded.
+[29/08/2020 15:48:11] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[29/08/2020 15:48:28] [Logout]: Mohammed Khier Alsahen(student1) logged out.
+[29/08/2020 15:48:28] [Log]: Save the files and stop the program.
+[29/08/2020 15:48:46] [Log]: Loading the program...
+[29/08/2020 15:48:46] [Log]: 74 users have been loaded.
+[29/08/2020 15:48:46] [Log]: 14 intakes have been loaded.
+[29/08/2020 15:48:46] [Log]: 20 modules have been loaded.
+[29/08/2020 15:48:46] [Log]: 61 students have been loaded.
+[29/08/2020 15:48:46] [Log]: 3 module results have been loaded.
+[29/08/2020 15:48:53] [Login]: DR. VAZEERUDEEN ABDUL HAMEED(lecturer2) logged in.
+[29/08/2020 17:20:08] [Log]: Loading the program...
+[29/08/2020 17:20:08] [Log]: 74 users have been loaded.
+[29/08/2020 17:20:08] [Log]: 14 intakes have been loaded.
+[29/08/2020 17:20:08] [Log]: 20 modules have been loaded.
+[29/08/2020 17:20:08] [Log]: 61 students have been loaded.
+[29/08/2020 17:20:08] [Log]: 3 module results have been loaded.
+[29/08/2020 17:20:13] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[29/08/2020 17:20:15] [Logout]: Mohammed Khier Alsahen(student1) logged out.
+[29/08/2020 17:20:18] [Login]: admin(admin) logged in.
+[29/08/2020 17:20:22] [Logout]: admin(admin) logged out.
+[29/08/2020 17:20:23] [Log]: Save the files and stop the program.
+[29/08/2020 17:20:26] [Log]: Loading the program...
+[29/08/2020 17:20:27] [Log]: 74 users have been loaded.
+[29/08/2020 17:20:27] [Log]: 14 intakes have been loaded.
+[29/08/2020 17:20:27] [Log]: 20 modules have been loaded.
+[29/08/2020 17:20:27] [Log]: 61 students have been loaded.
+[29/08/2020 17:20:27] [Log]: 3 module results have been loaded.
+[29/08/2020 17:20:32] [Log]: Save the files and stop the program.
+[30/08/2020 11:15:01] [Log]: Loading the program...
+[30/08/2020 11:15:01] [Log]: 74 users have been loaded.
+[30/08/2020 11:15:01] [Log]: 14 intakes have been loaded.
+[30/08/2020 11:15:01] [Log]: 20 modules have been loaded.
+[30/08/2020 11:15:01] [Log]: 61 students have been loaded.
+[30/08/2020 11:15:01] [Log]: 3 module results have been loaded.
+[30/08/2020 11:15:06] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[30/08/2020 11:16:33] [Log]: Loading the program...
+[30/08/2020 11:16:33] [Log]: 74 users have been loaded.
+[30/08/2020 11:16:33] [Log]: 14 intakes have been loaded.
+[30/08/2020 11:16:33] [Log]: 20 modules have been loaded.
+[30/08/2020 11:16:33] [Log]: 61 students have been loaded.
+[30/08/2020 11:16:33] [Log]: 3 module results have been loaded.
+[30/08/2020 11:16:38] [Login]: DR. VAZEERUDEEN ABDUL HAMEED(lecturer2) logged in.
+[30/08/2020 11:17:02] [Logout]: DR. VAZEERUDEEN ABDUL HAMEED(lecturer2) logged out.
+[30/08/2020 11:17:06] [Login]: MS. MARY TING(lecturer3) logged in.
+[30/08/2020 11:17:32] [Logout]: MS. MARY TING(lecturer3) logged out.
+[30/08/2020 11:17:36] [Login]: MR. KAU GUAN KIAT(lecturer4) logged in.
+[30/08/2020 11:17:48] [Logout]: MR. KAU GUAN KIAT(lecturer4) logged out.
+[30/08/2020 11:17:52] [Login]: MS. THAM HOONG CHING(lecturer5) logged in.
+[30/08/2020 11:18:51] [Logout]: MS. THAM HOONG CHING(lecturer5) logged out.
+[30/08/2020 11:18:54] [Login]: MR. SURESH A/L S.SAMINATHAN(lecturer6) logged in.
+[30/08/2020 11:19:12] [Logout]: MR. SURESH A/L S.SAMINATHAN(lecturer6) logged out.
+[30/08/2020 11:19:15] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[30/08/2020 11:20:45] [Logout]: Mohammed Khier Alsahen(student1) logged out.
+[30/08/2020 11:20:45] [Log]: Save the files and stop the program.
+[30/08/2020 11:20:48] [Log]: Loading the program...
+[30/08/2020 11:20:48] [Log]: 74 users have been loaded.
+[30/08/2020 11:20:48] [Log]: 14 intakes have been loaded.
+[30/08/2020 11:20:48] [Log]: 20 modules have been loaded.
+[30/08/2020 11:20:48] [Log]: 61 students have been loaded.
+[30/08/2020 11:20:48] [Log]: 6 module results have been loaded.
+[30/08/2020 11:20:50] [Log]: Save the files and stop the program.
+[30/08/2020 11:21:14] [Log]: Loading the program...
+[30/08/2020 11:21:14] [Log]: 74 users have been loaded.
+[30/08/2020 11:21:14] [Log]: 14 intakes have been loaded.
+[30/08/2020 11:21:14] [Log]: 20 modules have been loaded.
+[30/08/2020 11:21:14] [Log]: 61 students have been loaded.
+[30/08/2020 11:21:14] [Log]: 6 module results have been loaded.
+[30/08/2020 11:21:18] [Login]: Mr Admin (1)(admin1) logged in.
+[30/08/2020 11:22:38] [Logout]: Mr Admin (1)(admin1) logged out.
+[30/08/2020 11:22:43] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[30/08/2020 11:24:47] [Log]: Loading the program...
+[30/08/2020 11:24:47] [Log]: 74 users have been loaded.
+[30/08/2020 11:24:47] [Log]: 14 intakes have been loaded.
+[30/08/2020 11:24:47] [Log]: 20 modules have been loaded.
+[30/08/2020 11:24:47] [Log]: 61 students have been loaded.
+[30/08/2020 11:24:47] [Log]: 6 module results have been loaded.
+[30/08/2020 11:24:51] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[30/08/2020 11:25:46] [Logout]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged out.
+[30/08/2020 11:25:46] [Log]: Save the files and stop the program.
+[30/08/2020 11:26:37] [Log]: Loading the program...
+[30/08/2020 11:26:37] [Log]: 74 users have been loaded.
+[30/08/2020 11:26:37] [Log]: 14 intakes have been loaded.
+[30/08/2020 11:26:37] [Log]: 20 modules have been loaded.
+[30/08/2020 11:26:37] [Log]: 61 students have been loaded.
+[30/08/2020 11:26:37] [Log]: 6 module results have been loaded.
+[30/08/2020 11:48:45] [Log]: Loading the program...
+[30/08/2020 11:48:45] [Log]: 74 users have been loaded.
+[30/08/2020 11:48:45] [Log]: 14 intakes have been loaded.
+[30/08/2020 11:48:45] [Log]: 20 modules have been loaded.
+[30/08/2020 11:48:45] [Log]: 61 students have been loaded.
+[30/08/2020 11:48:45] [Log]: 6 module results have been loaded.
+[30/08/2020 11:48:46] [Log]: Save the files and stop the program.
+[30/08/2020 11:48:52] [Log]: Loading the program...
+[30/08/2020 11:48:52] [Log]: 74 users have been loaded.
+[30/08/2020 11:48:52] [Log]: 14 intakes have been loaded.
+[30/08/2020 11:48:52] [Log]: 20 modules have been loaded.
+[30/08/2020 11:48:52] [Log]: 61 students have been loaded.
+[30/08/2020 11:48:52] [Log]: 6 module results have been loaded.
+[30/08/2020 11:48:57] [Login]: admin(admin) logged in.
+[30/08/2020 11:49:44] [Logout]: admin(admin) logged out.
+[30/08/2020 11:49:44] [Log]: Save the files and stop the program.
+[30/08/2020 12:10:11] [Log]: Loading the program...
+[30/08/2020 12:10:11] [Log]: 74 users have been loaded.
+[30/08/2020 12:10:11] [Log]: 14 intakes have been loaded.
+[30/08/2020 12:10:11] [Log]: 20 modules have been loaded.
+[30/08/2020 12:10:11] [Log]: 61 students have been loaded.
+[30/08/2020 12:10:11] [Log]: 6 module results have been loaded.
+[30/08/2020 12:10:16] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[30/08/2020 12:10:30] [Logout]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged out.
+[30/08/2020 12:10:31] [Log]: Save the files and stop the program.
+[30/08/2020 12:39:17] [Log]: Loading the program...
+[30/08/2020 12:39:17] [Log]: 74 users have been loaded.
+[30/08/2020 12:39:17] [Log]: 14 intakes have been loaded.
+[30/08/2020 12:39:17] [Log]: 20 modules have been loaded.
+[30/08/2020 12:39:17] [Log]: 61 students have been loaded.
+[30/08/2020 12:39:17] [Log]: 6 module results have been loaded.
+[30/08/2020 12:39:18] [Log]: Save the files and stop the program.
+[30/08/2020 12:40:05] [Log]: Loading the program...
+[30/08/2020 12:40:05] [Log]: 74 users have been loaded.
+[30/08/2020 12:40:05] [Log]: 14 intakes have been loaded.
+[30/08/2020 12:40:05] [Log]: 20 modules have been loaded.
+[30/08/2020 12:40:05] [Log]: 61 students have been loaded.
+[30/08/2020 12:40:05] [Log]: 6 module results have been loaded.
+[30/08/2020 12:40:29] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[30/08/2020 12:41:11] [Logout]: Mohammed Khier Alsahen(student1) logged out.
+[30/08/2020 12:41:11] [Log]: Save the files and stop the program.
+[02/09/2020 13:12:31] [Log]: Loading the program...
+[02/09/2020 13:12:31] [Log]: 74 users have been loaded.
+[02/09/2020 13:12:31] [Log]: 14 intakes have been loaded.
+[02/09/2020 13:12:31] [Log]: 20 modules have been loaded.
+[02/09/2020 13:12:31] [Log]: 61 students have been loaded.
+[02/09/2020 13:12:31] [Log]: 6 module results have been loaded.
+[02/09/2020 13:12:36] [Login]: admin(admin) logged in.
+[02/09/2020 13:15:03] [Logout]: admin(admin) logged out.
+[02/09/2020 13:15:08] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 13:16:56] [Logout]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged out.
+[02/09/2020 13:16:59] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[02/09/2020 13:17:36] [Logout]: Mohammed Khier Alsahen(student1) logged out.
+[02/09/2020 13:17:37] [Log]: Save the files and stop the program.
+[02/09/2020 15:03:49] [Log]: Loading the program...
+[02/09/2020 15:03:49] [Log]: 74 users have been loaded.
+[02/09/2020 15:03:49] [Log]: 14 intakes have been loaded.
+[02/09/2020 15:03:49] [Log]: 20 modules have been loaded.
+[02/09/2020 15:03:49] [Log]: 61 students have been loaded.
+[02/09/2020 15:03:49] [Log]: 10 module results have been loaded.
+[02/09/2020 15:03:53] [Login]: admin(admin) logged in.
+[02/09/2020 15:12:00] [Logout]: admin(admin) logged out.
+[02/09/2020 15:12:00] [Log]: Save the files and stop the program.
+[02/09/2020 21:19:22] [Log]: Loading the program...
+[02/09/2020 21:19:22] [Log]: 74 users have been loaded.
+[02/09/2020 21:19:22] [Log]: 14 intakes have been loaded.
+[02/09/2020 21:19:22] [Log]: 20 modules have been loaded.
+[02/09/2020 21:19:22] [Log]: 61 students have been loaded.
+[02/09/2020 21:19:22] [Log]: 10 module results have been loaded.
+[02/09/2020 21:19:26] [Login]: admin(admin) logged in.
+[02/09/2020 21:20:28] [Logout]: admin(admin) logged out.
+[02/09/2020 21:20:32] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 21:20:46] [Logout]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged out.
+[02/09/2020 21:20:49] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[02/09/2020 21:20:59] [Logout]: Mohammed Khier Alsahen(student1) logged out.
+[02/09/2020 21:20:59] [Log]: Save the files and stop the program.
+[02/09/2020 21:47:19] [Log]: Loading the program...
+[02/09/2020 21:47:19] [Log]: 74 users have been loaded.
+[02/09/2020 21:47:19] [Log]: 14 intakes have been loaded.
+[02/09/2020 21:47:19] [Log]: 20 modules have been loaded.
+[02/09/2020 21:47:19] [Log]: 61 students have been loaded.
+[02/09/2020 21:47:19] [Log]: 11 module results have been loaded.
+[02/09/2020 21:47:23] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 21:47:49] [Log]: Loading the program...
+[02/09/2020 21:47:49] [Log]: 74 users have been loaded.
+[02/09/2020 21:47:49] [Log]: 14 intakes have been loaded.
+[02/09/2020 21:47:49] [Log]: 20 modules have been loaded.
+[02/09/2020 21:47:49] [Log]: 61 students have been loaded.
+[02/09/2020 21:47:49] [Log]: 11 module results have been loaded.
+[02/09/2020 21:47:53] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 21:52:55] [Log]: Loading the program...
+[02/09/2020 21:52:55] [Log]: 74 users have been loaded.
+[02/09/2020 21:52:55] [Log]: 14 intakes have been loaded.
+[02/09/2020 21:52:55] [Log]: 20 modules have been loaded.
+[02/09/2020 21:52:56] [Log]: 61 students have been loaded.
+[02/09/2020 21:52:56] [Log]: 11 module results have been loaded.
+[02/09/2020 21:53:00] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 21:54:24] [Log]: Loading the program...
+[02/09/2020 21:54:24] [Log]: 74 users have been loaded.
+[02/09/2020 21:54:25] [Log]: 14 intakes have been loaded.
+[02/09/2020 21:54:25] [Log]: 20 modules have been loaded.
+[02/09/2020 21:54:25] [Log]: 61 students have been loaded.
+[02/09/2020 21:54:25] [Log]: 11 module results have been loaded.
+[02/09/2020 21:54:31] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 21:55:35] [Log]: Loading the program...
+[02/09/2020 21:55:35] [Log]: 74 users have been loaded.
+[02/09/2020 21:55:35] [Log]: 14 intakes have been loaded.
+[02/09/2020 21:55:35] [Log]: 20 modules have been loaded.
+[02/09/2020 21:55:35] [Log]: 61 students have been loaded.
+[02/09/2020 21:55:35] [Log]: 11 module results have been loaded.
+[02/09/2020 21:55:39] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 22:01:01] [Log]: Loading the program...
+[02/09/2020 22:01:01] [Log]: 74 users have been loaded.
+[02/09/2020 22:01:01] [Log]: 14 intakes have been loaded.
+[02/09/2020 22:01:01] [Log]: 20 modules have been loaded.
+[02/09/2020 22:01:01] [Log]: 61 students have been loaded.
+[02/09/2020 22:01:01] [Log]: 11 module results have been loaded.
+[02/09/2020 22:01:04] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 22:02:29] [Log]: Loading the program...
+[02/09/2020 22:02:29] [Log]: 74 users have been loaded.
+[02/09/2020 22:02:29] [Log]: 14 intakes have been loaded.
+[02/09/2020 22:02:29] [Log]: 20 modules have been loaded.
+[02/09/2020 22:02:29] [Log]: 61 students have been loaded.
+[02/09/2020 22:02:29] [Log]: 11 module results have been loaded.
+[02/09/2020 22:02:33] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 22:05:25] [Log]: Loading the program...
+[02/09/2020 22:05:25] [Log]: 74 users have been loaded.
+[02/09/2020 22:05:25] [Log]: 14 intakes have been loaded.
+[02/09/2020 22:05:25] [Log]: 20 modules have been loaded.
+[02/09/2020 22:05:25] [Log]: 61 students have been loaded.
+[02/09/2020 22:05:25] [Log]: 11 module results have been loaded.
+[02/09/2020 22:05:29] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 22:06:28] [Log]: Loading the program...
+[02/09/2020 22:06:28] [Log]: 74 users have been loaded.
+[02/09/2020 22:06:28] [Log]: 14 intakes have been loaded.
+[02/09/2020 22:06:28] [Log]: 20 modules have been loaded.
+[02/09/2020 22:06:28] [Log]: 61 students have been loaded.
+[02/09/2020 22:06:28] [Log]: 11 module results have been loaded.
+[02/09/2020 22:06:32] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 22:08:34] [Log]: Loading the program...
+[02/09/2020 22:08:34] [Log]: 74 users have been loaded.
+[02/09/2020 22:08:34] [Log]: 14 intakes have been loaded.
+[02/09/2020 22:08:34] [Log]: 20 modules have been loaded.
+[02/09/2020 22:08:34] [Log]: 61 students have been loaded.
+[02/09/2020 22:08:34] [Log]: 11 module results have been loaded.
+[02/09/2020 22:08:37] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 22:09:34] [Log]: Loading the program...
+[02/09/2020 22:09:34] [Log]: 74 users have been loaded.
+[02/09/2020 22:09:34] [Log]: 14 intakes have been loaded.
+[02/09/2020 22:09:34] [Log]: 20 modules have been loaded.
+[02/09/2020 22:09:34] [Log]: 61 students have been loaded.
+[02/09/2020 22:09:34] [Log]: 11 module results have been loaded.
+[02/09/2020 22:09:40] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 22:11:43] [Log]: Loading the program...
+[02/09/2020 22:11:43] [Log]: 74 users have been loaded.
+[02/09/2020 22:11:43] [Log]: 14 intakes have been loaded.
+[02/09/2020 22:11:43] [Log]: 20 modules have been loaded.
+[02/09/2020 22:11:43] [Log]: 61 students have been loaded.
+[02/09/2020 22:11:43] [Log]: 11 module results have been loaded.
+[02/09/2020 22:11:48] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 22:17:02] [Log]: Loading the program...
+[02/09/2020 22:17:02] [Log]: 74 users have been loaded.
+[02/09/2020 22:17:02] [Log]: 14 intakes have been loaded.
+[02/09/2020 22:17:02] [Log]: 20 modules have been loaded.
+[02/09/2020 22:17:02] [Log]: 61 students have been loaded.
+[02/09/2020 22:17:02] [Log]: 11 module results have been loaded.
+[02/09/2020 22:17:08] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[02/09/2020 22:17:34] [Logout]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged out.
+[02/09/2020 22:17:34] [Log]: Save the files and stop the program.
+[17/09/2020 16:47:39] [Log]: Loading the program...
+[17/09/2020 16:47:39] [Log]: 74 users have been loaded.
+[17/09/2020 16:47:39] [Log]: 14 intakes have been loaded.
+[17/09/2020 16:47:39] [Log]: 20 modules have been loaded.
+[17/09/2020 16:47:39] [Log]: 61 students have been loaded.
+[17/09/2020 16:47:39] [Log]: 11 module results have been loaded.
+[17/09/2020 16:47:44] [Login]: admin(admin) logged in.
+[17/09/2020 16:47:46] [Logout]: admin(admin) logged out.
+[17/09/2020 16:47:46] [Log]: Save the files and stop the program.
+[17/09/2020 16:47:49] [Log]: Loading the program...
+[17/09/2020 16:47:49] [Log]: 74 users have been loaded.
+[17/09/2020 16:47:49] [Log]: 14 intakes have been loaded.
+[17/09/2020 16:47:49] [Log]: 20 modules have been loaded.
+[17/09/2020 16:47:49] [Log]: 61 students have been loaded.
+[17/09/2020 16:47:49] [Log]: 11 module results have been loaded.
+[17/09/2020 16:47:53] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[17/09/2020 16:47:55] [Logout]: Mohammed Khier Alsahen(student1) logged out.
+[17/09/2020 16:48:01] [Login]: DR. VAZEERUDEEN ABDUL HAMEED(lecturer2) logged in.
+[17/09/2020 16:48:03] [Logout]: DR. VAZEERUDEEN ABDUL HAMEED(lecturer2) logged out.
+[17/09/2020 16:48:04] [Log]: Save the files and stop the program.
+[17/09/2020 17:02:45] [Log]: Loading the program...
+[17/09/2020 17:02:45] [Log]: 74 users have been loaded.
+[17/09/2020 17:02:45] [Log]: 14 intakes have been loaded.
+[17/09/2020 17:02:45] [Log]: 20 modules have been loaded.
+[17/09/2020 17:02:45] [Log]: 61 students have been loaded.
+[17/09/2020 17:02:45] [Log]: 11 module results have been loaded.
+[17/09/2020 17:02:49] [Login]: admin(admin) logged in.
+[17/09/2020 17:03:28] [Logout]: admin(admin) logged out.
+[17/09/2020 17:03:28] [Log]: Save the files and stop the program.
+[17/09/2020 17:22:35] [Log]: Loading the program...
+[17/09/2020 17:22:35] [Log]: 74 users have been loaded.
+[17/09/2020 17:22:35] [Log]: 14 intakes have been loaded.
+[17/09/2020 17:22:35] [Log]: 20 modules have been loaded.
+[17/09/2020 17:22:35] [Log]: 61 students have been loaded.
+[17/09/2020 17:22:35] [Log]: 11 module results have been loaded.
+[17/09/2020 17:22:54] [Login]: admin(admin) logged in.
+[17/09/2020 17:26:35] [Logout]: admin(admin) logged out.
+[17/09/2020 17:26:39] [Login]: y1(y1) logged in.
+[17/09/2020 17:27:13] [Logout]: y1(y1) logged out.
+[17/09/2020 17:27:13] [Log]: Save the files and stop the program.
+[17/09/2020 17:27:25] [Log]: Loading the program...
+[17/09/2020 17:27:25] [Log]: 78 users have been loaded.
+[17/09/2020 17:27:25] [Log]: 14 intakes have been loaded.
+[17/09/2020 17:27:25] [Log]: 22 modules have been loaded.
+[17/09/2020 17:27:25] [Log]: 63 students have been loaded.
+[17/09/2020 17:27:25] [Log]: 11 module results have been loaded.
+[17/09/2020 17:27:29] [Login]: y2(y2) logged in.
+[17/09/2020 17:28:07] [Logout]: y2(y2) logged out.
+[17/09/2020 17:28:13] [Login]: y3(y3) logged in.
+[17/09/2020 17:28:27] [Logout]: y3(y3) logged out.
+[17/09/2020 17:28:28] [Log]: Save the files and stop the program.
+[04/01/2021 15:43:25] [Log]: Loading the program...
+[04/01/2021 15:43:25] [Log]: 78 users have been loaded.
+[04/01/2021 15:43:25] [Log]: 14 intakes have been loaded.
+[04/01/2021 15:43:25] [Log]: 22 modules have been loaded.
+[04/01/2021 15:43:25] [Log]: 63 students have been loaded.
+[04/01/2021 15:43:25] [Log]: 13 module results have been loaded.
+[04/01/2021 15:43:44] [Login]: Yap Zhen Yie(yapzhenyie) logged in.
+[04/01/2021 15:44:20] [Logout]: Yap Zhen Yie(yapzhenyie) logged out.
+[04/01/2021 15:44:26] [Login]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged in.
+[04/01/2021 15:45:19] [Logout]: MR SIVANANTHAN A/L CHELLIAH(lecturer1) logged out.
+[04/01/2021 15:45:25] [Login]: Mohammed Khier Alsahen(student1) logged in.
+[04/01/2021 16:16:57] [Logout]: Mohammed Khier Alsahen(student1) logged out.
+[04/01/2021 16:16:57] [Log]: Save the files and stop the program.

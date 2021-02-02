@@ -1,0 +1,132 @@
+MPU3213-BM(A)
+Bahasa Kebangsaan A
+lecturer6
+Test;Assignment
+40;60
+
+CT006-3-1-FSD
+Fundamentals of Software Development
+lecturer3
+Test;Exam
+40;60
+
+MPU3113-HE
+Ethnic Relations
+lecturer6
+Assignment;Exam
+60;40
+
+CT017-3-1-IAI
+Introduction to Artificial Intelligence
+lecturer2
+Assignment;Exam
+40;60
+
+CT042-3-1-IDB
+Introduction to Databases
+lecturer3
+Quiz;Exam
+30;70
+
+BM007-3-1-IMT
+Introduction to Management
+lecturer1
+Test;Assignment;Exam
+20;40;40
+
+CT043-3-1-IN
+Introduction to Networking
+lecturer5
+Quiz;Assignment
+40;60
+
+CT044-3-1-IOOP
+Introduction to Object Oriented Programming
+lecturer4
+Quiz;Assignment
+40;60
+
+MPU3123-TITAS
+Islamic Civilisation and Asian Civilisation
+lecturer6
+Assignment;Exam
+60;40
+
+AQ010-3-1-MCFC
+Mathematical Concept For Computing
+lecturer7
+Quiz;Exam
+40;60
+
+CT049-3-1-OSCA
+Operating Systems and Computer Architecture
+lecturer5
+Quiz;Assignment;Exam
+20;40;40
+
+CT026-3-1-SAAD
+Systems Analysis and Design
+lecturer1
+Assignment;Exam
+60;40
+
+CT111-3-2-COMT
+Computing Theory
+lecturer2
+Assignment;Exam
+50;50
+
+CT107-3-2-ENTS
+Enterprise Systems
+lecturer5
+Assignment;Exam
+50;50
+
+CT038-3-2-OODJ
+Object Oriented Development with Java
+lecturer4
+Test;Assignment
+40;60
+
+CT127-3-2-PFDA
+Programming for Data Analysis
+lecturer3
+Test;Assignment
+40;60
+
+CT056-3-2-RENG
+Requirements Engineering
+lecturer1
+Assignment;Exam
+50;50
+
+CT046-3-2-SDM
+System Development Methods
+lecturer7
+Assignment;Exam
+60;40
+
+MPU3272-WPCS
+Workplace Professional Communication Skills
+lecturer6
+Assignment;Resume
+50;50
+
+CT016-3-2-FAI
+Further Artificial Intelligence
+lecturer2
+Test;Assignment
+40;60
+
+y5
+y5
+y1
+Assignment
+100
+
+y6
+y6
+y2
+Exam
+100
+
